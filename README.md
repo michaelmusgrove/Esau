@@ -11,3 +11,5 @@ Upload the zipped file you downloaded from GitHub.
 Activate.
 Customize.
 Party.
+
+NOTE: UPON FURTHER NOTICE, THIS SEEMS TO BE A GENESIS CHIILD THEME. 
